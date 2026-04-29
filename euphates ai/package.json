@@ -1,0 +1,19 @@
+{
+  "name": "euphrates-ai",
+  "version": "1.0.0",
+  "description": "Kolkata Afforestation Explorer",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "Kolkata",
+    "Afforestation",
+    "GIS",
+    "CesiumJS",
+    "Leaflet",
+    "React"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
